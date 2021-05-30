@@ -17,4 +17,8 @@
 
 # !husbando Command
 
-!commands add !waifu $(user) , tu husbando es $(urlfetch https://kharoontesbot.000webhostapp.com/husbando.php)
+!commands add !husbando $(user) , tu husbando es $(urlfetch https://kharoontesbot.000webhostapp.com/husbando.php)
+
+# !followage Command
+
+!commands add !followage $(urlfetch https://2g.be/twitch/following.php?user=$(touser)&channel=$(channel)&format=mwdhms)
