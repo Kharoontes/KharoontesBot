@@ -1,6 +1,9 @@
-# KharoontesBot
+# KharoontesBot - Comandos para Nightbot hospedados 000webhost
 
-Comandos para Nightbot hospedados 000webhost
+
+
+
+
 
 
 # !bola8 Command
