@@ -37,7 +37,3 @@
 !commands add !followage Gracias por el Host , Sigan a $(touser) at twitch.tv/$(touser) es tremendo su stream !!
 
 
-
-
-&p#nC9Vjnk7zjjCm7eR%u*!qs*Z
-
