@@ -1,6 +1,6 @@
 # KharoontesBot -
 
- Comandos para Nightbot hospedados 000webhost
+ Comandos para Nightbot 
 
 
 # !followage Command
